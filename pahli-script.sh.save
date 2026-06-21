@@ -1,0 +1,5 @@
+read -p "Aapko kis website Ka data nikalna hai?: "web
+whois $web
+#!/bin/bash
+echo "Hello, Aklesh!"
+whois jio.com
